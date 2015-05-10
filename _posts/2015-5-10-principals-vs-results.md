@@ -1,3 +1,10 @@
+---
+layout: post
+title: Principals vs Results
+author: Demosthenes
+---
+
+
 I want to talk about the dichotomized weltanschauung of results and principals (and in a similar fashion I want to talk about long run and short run mentalities later). What the hell did I just say.
 
 So before I dive into pretty obfuscations, I want to really define what I mean by "dichotomized weltanshauung" (for the astute Germanophile this may may already be self-evident, however I want to add some nuance). Weltanshauung literally means a way of viewing a world, but I almost mean it to be the way that you solve any problem that the world presents you. 
