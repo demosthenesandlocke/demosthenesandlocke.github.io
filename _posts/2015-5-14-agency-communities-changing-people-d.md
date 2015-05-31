@@ -6,7 +6,7 @@ author: Demosthenes
 
 Do you remember middle school?
 
-If you do, I am sure that you remember good old Fahrenheit 451. As I read your [post](http://demosthenesandlocke.github.io/agency-communities-changing-people-l/) this book swarmed into my memory. The types of people you are talking about can be so clearly personified in this work Millie, the wife of our fireman is conformity. She ogles at the telewall and gossips with the neighbors and takes pills to sleep and wake. Guy Montag, our fireman (for the majority of the novel) is the "normal dude", and his quirks are the books he stashes away. And of course Clarisse McClellan is the iconoclast. Clanging with society (though perhaps coping with mania rather than dementia or angst). 
+If you do, I am sure that you remember good old Fahrenheit 451. As I read your [post]({% post_url 2015-5-4-agency-communities-changing-people-l %}) this book swarmed into my memory. The types of people you are talking about can be so clearly personified in this work Millie, the wife of our fireman is conformity. She ogles at the telewall and gossips with the neighbors and takes pills to sleep and wake. Guy Montag, our fireman (for the majority of the novel) is the "normal dude", and his quirks are the books he stashes away. And of course Clarisse McClellan is the iconoclast. Clanging with society (though perhaps coping with mania rather than dementia or angst). 
 
 ### Distinguished
 
@@ -34,7 +34,7 @@ All organisms have one goal basically: to persist and spread. As a biological or
 
 The way I see a member of your mafia is: somebody with your same teleos that you would like to represent you. It is like taking your soul and splitting it into another vessel. A horcrux perhaps. That is what a member in your mafia should be. Somebody that close. Somebody that you would share life with. 
 
-Now while people in this third category, those iconoclasts, are interesting and perhaps even universally good influences, they are not and could not all be part of your mafia. Their visions and goals are different, and their modus operandi are perhaps orthogonal to your own (they have different sets of [principal and result]({% post_url 2015-05-10-principals-vs-results %}) values).
+Now while people in this third category, those iconoclasts, are interesting and perhaps even universally good influences, they are not and could not all be part of your mafia. Their visions and goals are different, and their modus operandi are perhaps orthogonal to your own (they have different sets of [principal and result]({% post_url 2015-05-10-principals-vs-results-d %}) values).
 
 So again. Who should be in your mafia? 
 
