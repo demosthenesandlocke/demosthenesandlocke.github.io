@@ -1,0 +1,17 @@
+---
+layout: post
+title: Once More with Feeling
+author: Locke
+---
+
+For some reason, I haven't been caring about much lately, and it's not due to being satisfied with my current position in life, but not knowing what I really want to pursue. It's really due to some persistent thoughts I've been ignoring. I haven't been sleeping well enough due to it and I can't distract myself from these pesky thoughts.
+
+It starts from society. When you're young you grow up in what seems like a fair society. You're generally told about virtues, equity and goals to strive towards. Then you hit your teens and things become more or less short-sighted due to hormones. People feel like the world is crumbling around them when they get a B on their paper and that they've found true lifetime love. A lot of things seem easy and a lot seem unfair. They're blinded by emotions and lack the perspective to see the world is more stable.
+
+Of course, then I got into the real world and... realized nobody fucking grew up. What is wrong with society? Instead of taking the helm of our Country and future, everyone's taking as much as they can and running away with it. The greedy/short-sighted algorithm is the most prominent. There's no distinction between adults and children since they all dress, speak and think alike. We're all desperately trying to entertain ourselves harder and harder because doing real work and thinking about problems thoroughly seems like death by comparison. Perhaps we've even become habituated to it and have the expectation to be entertained; what used to be an occasional treat is now a right as well as a turgid dopamine well in our brain.
+
+And what results? Instead of resolving problems collectively, we only have the attention span to listen to others' problems until we hear the one mildly non-standard idea that makes us spit in their faces. We've gone from cognizant and active to bird-brained and sluggish. And don't give me the "Humans/Society have/has always been like this" card, I mean for christ-sakes the closest historical description to our level of apathy is in the decline and fall of the roman empire. Humans are meant to live a whole life consisting of a full spectrum of emotions and experiences: it's why we're made to handle them. By mindlessly indulging in levels of gluttony not even medeival christians could have conceived of we're not just going to some nebulous fire in the ground but are robbing us of emotions, thoughs and experiences that our species exists to work with. Meaningful relationships, useful innovations, difficult struggles act as critical feedback to help us determine what to do with ourselves and by extension our society, and without those we don't have the power to make amazing leaps in arts, technology, governance and society. Without those we are stagnant and doomed to live superficially pleasurable but ultimately meaningless lives.
+
+Are destructive/entertainment uses of technology so much easier to develop, distribute and utilize than constructive technology(like the young lady's primer)? I mean, if we're capable of sinking into a cyberpunk future, then how much extra effort is a more positive one worth? Perhaps the platform we've found for universally capturing attention can be tailored to something more positive.
+
+Anyway, that's all the nonsensical sleep-deprived drivel from me today.

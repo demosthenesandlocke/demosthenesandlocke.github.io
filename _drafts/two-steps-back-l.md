@@ -1,0 +1,24 @@
+---
+layout: post
+title: Two Steps Back
+author: Locke
+---
+I'm not trying to be holden here, but let me define my bias more.
+
+
+I've heard that "the more recent generations take more time to grow up". This is good in a sense that you don't have to fit into a predefined category as quickly and indeed can make your own. A potential drawback is that our modern citizens often don't grow up at all. After all, without a proper incentive such as being traditionally forced to, why would you? However, perphaps this is just a more general dilemma of choices. There are countless answers to the "what to be when you grow up" question, perhaps too many for people to make a choice, thus discouraging serious consideration and resulting in casual product-of-their-environment z to follow the path of least broadcasted resistance, which isn't a path echoed by their local community nor due to filial piety or any particularly ingrained virtue but purely by what corporation put the most resoruces towards that dude's life as far as glorification/ease of profession is concerned. Honestly, the same situation has always existed that x percentage followed trodden paths 
+
+Perhaps it is narrow sighted. Help me with this because I have trouble seeing other perspectives.
+
+People are sets of self-interest with varying personality-parameters that adapt to their environment. If it's an unfair environment, the people will be unfair. If some needs are met at the expense of others, the unmet needs will be magnified. Really, the ideal society will probably just be a result of solving some system of linear equations with the trick being divining such a set in the first place.
+
+My parents are moral people and my grandparents were moreso. I recently met a comrade's grand-parents while he was graduating and shared in some stories. One of them was how <friend>'s uncle had essentially been involved in some white collar scandal/crime with accounting numbers, taxation(that category). In today's (not apathetic) but misguided environment, he may be commended as a hero for evading taxes and being clever enough to get away with it in that sexy hero manner so often seen on television. But when his grandparents found out they just shamed him for fundamentally trying to avoid contributing to others in society(which may or may not be used wisely, sure).
+There's youth sure. I'm sure all of these guys did some crazy/questionable decisions and learned from them. But at a certain point, you realize the reason for a lot of moral values being put into place is to save society the time of starting from some new amoral scratch point.
+
+I'm not trying to push archaic christian values but universally palatable virtues would help society waste less of its manhours and resources catering to purely destructive/consumptive(self and otherwise) uses of life instead.
+
+Sure, in the past humans have gone through animal pain and hardship in a variety of circumstances. However, I'm really only talking about my past two generations here. Have people been angels in the past? Probably not, but were people complete amoral animals? I'm willing to bet that in the most austere environment, you'd have a clear spectrum of moral/amoral behaviour and choices for people to operate on. I guess one of the issues I take is how little growing-up is actually happening/is impeded; not only an abundance of distractions but an abundance of portrayed morally correct and incorrect decisions being projected by certain powerful ideologies. Again, there have always been powerful groups trying to push their agendas against individuals, but I feel like society is so lopsided against letting the individual have any agency in their own decision making that it yet again robs us of the identity creation(rather than adoption) necessary in actually "growing up".
+
+My thought is that yes, there has always been conflicting interests between different groups, but never has the difference in the groups' abilities to even comprehend that this issue even exists, let alone to somehow try to adapt/react to the situation been so asymmetric. It's like sending tanks into a mindscape dominated by simple tribal rituals and sticks.
+
+Now, you can assume that this would work out over time and that history is "two steps forward one step back but we'll get there" sort of thing. However, if we comprehensively quantify and control human behavior via the mass action of the markets such that people like us stop worrying about larger issues of society because we're too busy being catered to, then we're taking a fundamentally greedy system to a limit. Unlike people, there is no sense of shame, community, relationships among corporations, and we're set to ride a more or less deterministic road towards further mindless consumption and production very likely without enough foresight or ability to adapt.
