@@ -1,8 +1,12 @@
-# Wage and Regulation
-
-## Demosthenes 
+---
+layout: post
+title: Wage and Regulation
+author: Demosthenes and Meno
+---
 
 Don’t you think that there will be social/media regulation. Evil companies in the short run are profitable, but in the long run will be run out of business. 
+
+## Demosthenes 
 
 There were and still are things that need be regulated. But information and media in the world in a way are a police force. Some regulations are just inefficient. They cause companies to spend money jumping through hoops instead of making products. Some are excellent. The FDA is an excellent example. Imagine though if instead of making an organization to do this, instead there was some company that did FDA regulation instead. That company would charge some money to have their seal of approval on foods. And they would be responsible to check whether the food is good. If they were wrong, the media would report the story, and that company could go out of business. See here we have free market regulation. Does that not seem plausible? 
 
